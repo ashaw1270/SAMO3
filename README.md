@@ -1,6 +1,6 @@
 # SAMO3
 
-This is a deep-learning neural network written in Python and using the Keras library that predicts if a set of data comes from group of black or white people.
+This is a deep-learning neural network written in Python using the Keras library that predicts if a set of data comes from group of black or white people.
 
 ## Implementation
 
