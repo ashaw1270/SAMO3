@@ -9,6 +9,7 @@ The neural network consists of an input layer of 2 neurons with a sigmoid activa
 ## Data
 
 The data is split up into four .csv files. Each file is either data for training or testing and x (input) or y (output).
+There are 88,570 data tuples for training and 10,000 data tuples for testing.
 The data for the x values consists of two categories, average household income at age 35, and incarceration rate.
 The data was taken from the opportunityatlas.org data set which can be found at https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing.
 
