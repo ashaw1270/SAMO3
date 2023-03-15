@@ -4,7 +4,7 @@ This is a deep-learning neural network written in Python using the Keras library
 
 ## Implementation
 
-The neural network consists of an input layer of 2 neurons with a sigmoid activation, one hidden layer of 128 neurons with a sigmoid activation, and an output layer of 2 neurons (black or white) with a softmax activation. The model compiles with an Adam optimizer and a binary crossentropy loss function.
+The neural network consists of an input layer of 2 neurons with a sigmoid activation, one hidden layer of 128 neurons also with a sigmoid activation, and an output layer of 2 neurons (black or white) with a softmax activation. The model compiles with an Adam optimizer and a binary crossentropy loss function.
 
 ## Data
 
